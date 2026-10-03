@@ -1,3 +1,10 @@
 .history/
 *.kicad_prl
 -1.14-windows.xml
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*.kicad_pro-bak
+*.lck
+*.log
+_restore_backup_*
